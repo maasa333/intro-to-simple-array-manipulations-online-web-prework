@@ -24,3 +24,25 @@ end
 def shift_with_args(array)
 
 end
+
+def using_concat(arrays)
+
+end
+
+def using_insert(array, element)
+
+end
+
+def using_uniq(array)
+
+end
+
+def using_flattin(array)
+
+end
+
+def using_delete(array, string)
+
+end
+
+
